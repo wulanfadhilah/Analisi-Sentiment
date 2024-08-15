@@ -1,0 +1,14 @@
+pip install streamlit
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install nltk
+pip install google-play-scraper
+pip install pillow
+pip install wordcloud
+pip install sastrawi
+pip install regex
+pip install svm
+pip install openpyxl
+pip install plotly
